@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eab5f0;
+    background-image: linear-gradient(315deg, #75357c 0%, #ce4f95 74%);
+    background-attachment: fixed;
+    background-size: cover;
+}

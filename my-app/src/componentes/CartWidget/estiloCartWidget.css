@@ -1,0 +1,15 @@
+.carrito {
+    font-size: 35px;
+    color: white;
+}
+
+.ocultar {
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.numCount {
+    color: white;
+    font-size:20px;
+    margin-right: 15px;
+}
