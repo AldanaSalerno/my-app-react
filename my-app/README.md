@@ -12,6 +12,4 @@ Dependencias utilizadas:
 5. Firebase
 
 # Deploy del sitio
-
-netfily
-
+aldanasalerno-coderhouse.netlify.app
